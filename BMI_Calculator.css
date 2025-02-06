@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+label, input, button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#result, #animalComparison, #funnyJoke {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+}
